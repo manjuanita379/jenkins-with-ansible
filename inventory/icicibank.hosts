@@ -4,6 +4,6 @@
 
 
 #[Host1]
-172.31.22.187  ansible_user=ec2-user 
+172.31.1.196  ansible_user=ec2-user 
 
 
